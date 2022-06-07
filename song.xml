@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song octave="4" duration="2" bpm="120">
+	<note name="C"/>
+	<note name="D+" duration="1"/>
+	<rest duration="2"/>
+	<repeat times="3">
+		<note name="B-" octave="5"/>
+		<note name="A" octave="5"/>
+	</repeat>
+</song>
